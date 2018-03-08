@@ -1,0 +1,19 @@
+{
+  "name": "scroller",
+  "version": "1.0.0",
+  "description": "scroller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhurongheng/scroller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhurongheng/scroller/issues"
+  },
+  "homepage": "https://github.com/zhurongheng/scroller#readme"
+}
