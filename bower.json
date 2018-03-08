@@ -1,0 +1,17 @@
+{
+  "name": "scroller",
+  "description": "scroller",
+  "main": "index.js",
+  "authors": [
+    "_"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/zhurongheng/scroller",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
